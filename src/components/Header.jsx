@@ -20,7 +20,7 @@ class Header extends Component {
               <li className="nav-item dropdown">
                 <a href="#" className="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown">
                   <i className="now-ui-icons design_image" aria-hidden="true"></i>
-                  <p>Examples</p>
+                  <p>Pages</p>
                 </a>
                 <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
                   <a className="dropdown-item" href="./examples/about-us.html">
